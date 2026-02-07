@@ -1,76 +1,76 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Mustafa%20Amanullah&fontSize=44&fontAlignY=38" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=240&section=header&text=Mustafa%20Amanullah&fontSize=46&fontAlignY=40&animation=fadeIn" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=23&pause=900&center=true&vCenter=true&width=650&lines=Software+Engineer;AI+%26+NLP+Focused;System-Oriented+Thinker;Building+Clean%2C+Scalable+Software" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=800&center=true&vCenter=true&width=700&lines=Software+Engineer;AI+%26+NLP+Focused;System-Level+Thinker;I+Build+Software+That+Lasts" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/mustafac0des">GitHub</a> ·
+  <a href="mailto:mustafa357yt@gmail.com">Email</a> ·
   <a href="https://www.linkedin.com/in/mustafac0des/">LinkedIn</a> ·
-  <a href="mailto:mustafa357yt@gmail.com">Email</a>
+  <a href="https://github.com/mustafac0des">GitHub</a>
 </p>
 
 </div>
 
 ---
 
-## 👋 Who I Am
+## ✦ About
 
-I’m a **software engineer** who enjoys designing and building **reliable systems**.
+I’m a **software engineer** focused on designing and building **robust, maintainable systems**.
 
-I care about *how* software is built — structure, clarity, performance, and how well it survives change over time.
+I enjoy working close to the fundamentals — architecture, data flow, performance, and how systems evolve over time.
 
-I’m most effective when working across **backend, frontend, and applied AI**, bringing ideas all the way to production-ready systems.
-
----
-
-## 🧠 How I Think
-
-<details>
-<summary><strong>My engineering mindset</strong></summary>
-
-* Solve the right problem before choosing tools
-* Prefer clarity over cleverness
-* Optimize for maintainability, not shortcuts
-* Systems > scripts
-
-</details>
-
-<details>
-<summary><strong>How I approach complexity</strong></summary>
-
-* Break systems into understandable pieces
-* Make data flow explicit
-* Design for failure and iteration
-
-</details>
+My comfort zone spans **backend engineering, frontend interfaces, and applied AI**, with a strong preference for clarity over cleverness.
 
 ---
 
-## 🛠️ What I Can Do
+## ✦ How I Work
 
 <details>
-<summary><strong>Software Engineering</strong></summary>
+<summary><strong>🧠 Engineering principles</strong></summary>
 
-* Design and build backend services and APIs
-* Develop full-stack web applications
-* Build mobile applications with performance in mind
+* Start with understanding the problem
+* Design systems before writing code
+* Optimize for readability and change
+* Prefer boring, reliable solutions
 
 </details>
 
 <details>
-<summary><strong>AI & NLP</strong></summary>
+<summary><strong>⚙️ When building systems</strong></summary>
 
-* Build NLP pipelines using modern models
-* Work with embeddings, transformers, and evaluation metrics
-* Integrate ML systems into real software products
+* Break complexity into explicit components
+* Make data flow obvious
+* Build for iteration, not perfection
+
+</details>
+
+---
+
+## ✦ Capabilities
+
+<details>
+<summary><strong>💻 Software Engineering</strong></summary>
+
+* Design and implement backend services and APIs
+* Build full-stack web applications
+* Develop mobile applications with performance and UX in mind
 
 </details>
 
 <details>
-<summary><strong>Systems & DevOps</strong></summary>
+<summary><strong>🤖 AI & NLP</strong></summary>
+
+* Work with NLP pipelines and transformer-based models
+* Build and evaluate ML systems
+* Integrate AI into production software responsibly
+
+</details>
+
+<details>
+<summary><strong>☁️ Systems & DevOps</strong></summary>
 
 * Containerize and deploy applications
 * Work with cloud infrastructure
@@ -80,7 +80,7 @@ I’m most effective when working across **backend, frontend, and applied AI**, 
 
 ---
 
-## ⚙️ Technical Comfort Zone
+## ✦ Technical Stack
 
 <p align="center">
 
@@ -94,28 +94,14 @@ I’m most effective when working across **backend, frontend, and applied AI**, 
 
 ---
 
-## ✨ Presence
+## ✦ Philosophy
 
-This profile is intentionally kept **stable and low-friction**.
-
-Rather than relying on external activity widgets (which often break due to API limits), I let **code, consistency, and collaboration** speak for themselves.
-
-If you’re curious about my recent work, feel free to explore my repositories or reach out directly.
+> *Software should feel simple to use and intentional to maintain.*
 
 ---
-
-## ✨ Philosophy
-
-> *Good software is boring to use and exciting to maintain.*
-
----
-
-## 📫 Let’s Talk
-
-If you’re interested in **engineering, systems design, or building software that lasts**, feel free to reach out.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=120&section=footer" />
 
 </div>
