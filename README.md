@@ -80,6 +80,7 @@
 <!-- GitHub Stats -->
 <h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mustafac0des&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafac0des&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mustafac0des&show_icons=true&count_private=true&theme=tokyonight" alt="Mustafa's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafac0des&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
+
