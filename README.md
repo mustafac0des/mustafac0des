@@ -57,4 +57,4 @@ Expected Graduation: June 2026
 ## 🏅 Certifications
 ![Python-Kaggle](https://img.shields.io/badge/Python-Kaggle-FFD43B?style=for-the-badge&logo=kaggle&logoColor=black)  
 ![Intro to Programming-Kaggle](https://img.shields.io/badge/Intro%20to%20Programming-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)  
-![Front-End Web Developer-404](https://img.shields.io/badge/Front-End%20Web%20Developer-EVS-FF6F61?style=for-the-badge)
+https://img.shields.io/badge/Frontend%20Web%20Developer-EVS-brightgreen?style=for-the-badge
