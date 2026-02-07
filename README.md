@@ -11,9 +11,8 @@
 
 <!-- Contact Info -->
 ## 📫 Connect with Me
-- [Gmail](mailto:mustafa357yt@gmail.com) ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-- [LinkedIn](https://www.linkedin.com/in/mustafac0des/) ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
-- [GitHub](https://github.com/mustafac0des) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+- ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+- ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
 
 ---
 
@@ -58,4 +57,4 @@ Expected Graduation: June 2026
 ## 🏅 Certifications
 ![Python-Kaggle](https://img.shields.io/badge/Python-Kaggle-FFD43B?style=for-the-badge&logo=kaggle&logoColor=black)  
 ![Intro to Programming-Kaggle](https://img.shields.io/badge/Intro%20to%20Programming-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)  
-![Front-End Web Developer-EVS](https://img.shields.io/badge/Front-End%20Web%20Developer-EVS-FF6F61?style=for-the-badge)
+![Front-End Web Developer-404](https://img.shields.io/badge/Front-End%20Web%20Developer-EVS-FF6F61?style=for-the-badge)
