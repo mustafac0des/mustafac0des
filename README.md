@@ -1,127 +1,122 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&height=260&section=header&text=Mustafa%20Amanullah&fontSize=46&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20%26%20NLP%20Builder&descAlignY=58&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Mustafa%20Amanullah&fontSize=44&fontAlignY=38" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=900&center=true&vCenter=true&width=650&lines=Turning+ideas+into+products;Engineering+AI-powered+systems;Clean+code+%7C+Real+impact+%7C+Zero+fluff" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=23&pause=900&center=true&vCenter=true&width=650&lines=Software+Engineer;AI+%26+NLP+Focused;System-Oriented+Thinker;Building+Clean%2C+Scalable+Software" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/mustafac0des"><img src="https://img.shields.io/github/followers/mustafac0des?style=for-the-badge&logo=github" /></a>
-  <img src="https://komarev.com/ghpvc/?username=mustafac0des&style=for-the-badge" />
-  <a href="https://www.linkedin.com/in/mustafac0des/"><img src="https://img.shields.io/badge/LinkedIn-Professional-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://github.com/mustafac0des">GitHub</a> ·
+  <a href="https://www.linkedin.com/in/mustafac0des/">LinkedIn</a> ·
+  <a href="mailto:mustafa357yt@gmail.com">Email</a>
 </p>
 
 </div>
 
 ---
 
-## 👋 About Me
+## 👋 Who I Am
 
-```yaml
-name: Mustafa Amanullah
-role: Software Engineer
-focus: [AI, NLP, Full-Stack Development]
-status: Final Year SE Student @ COMSATS University
-mindset: "Build fast, learn faster, ship clean"
-```
+I’m a **software engineer** who enjoys designing and building **reliable systems**.
 
-I love building **intelligent systems**, **scalable backends**, and **clean user experiences**. My work lives at the intersection of **AI**, **product engineering**, and **real-world impact**.
+I care about *how* software is built — structure, clarity, performance, and how well it survives change over time.
+
+I’m most effective when working across **backend, frontend, and applied AI**, bringing ideas all the way to production-ready systems.
 
 ---
 
-## 🧠 What I’m Into
+## 🧠 How I Think
 
-* 🤖 NLP, Transformers, RAG systems
-* 📱 Mobile apps with React Native
-* 🌐 Full-stack web apps (MERN + Laravel)
-* ☁️ Cloud, Docker, Terraform
-* 🧪 Experimenting with ML models & embeddings
+<details>
+<summary><strong>My engineering mindset</strong></summary>
 
----
+* Solve the right problem before choosing tools
+* Prefer clarity over cleverness
+* Optimize for maintainability, not shortcuts
+* Systems > scripts
 
-## 🛠️ Tech Stack
+</details>
 
-### Languages
+<details>
+<summary><strong>How I approach complexity</strong></summary>
 
-`C++` `Python` `JavaScript` `Java` `PHP`
+* Break systems into understandable pieces
+* Make data flow explicit
+* Design for failure and iteration
 
-### Frameworks & Platforms
-
-`React` `React Native` `Node.js` `Laravel` `FastAPI`
-
-### AI / ML
-
-`Transformers` `PyTorch` `TensorFlow` `scikit-learn`
-
-### Cloud & DevOps
-
-`Docker` `AWS` `Terraform`
-
-### Databases & Tools
-
-`MongoDB` `MySQL` `Firebase` `Git` `Postman`
+</details>
 
 ---
 
-## 🚀 What I Do
+## 🛠️ What I Can Do
 
-I focus on **building real software systems end to end** — from idea and architecture to deployment and iteration.
+<details>
+<summary><strong>Software Engineering</strong></summary>
 
-My work typically sits at the intersection of:
+* Design and build backend services and APIs
+* Develop full-stack web applications
+* Build mobile applications with performance in mind
 
-* intelligent systems and applied AI,
-* scalable backend services,
-* and clean, user-focused web or mobile experiences.
+</details>
 
-I care deeply about **code quality, system design, and long-term maintainability**, and I prefer shipping useful, evolving products over isolated demos.
+<details>
+<summary><strong>AI & NLP</strong></summary>
 
----
+* Build NLP pipelines using modern models
+* Work with embeddings, transformers, and evaluation metrics
+* Integrate ML systems into real software products
 
-### 🏨 RoomGO — *Hotel Management System*
+</details>
 
-> Laravel · MySQL · AJAX
+<details>
+<summary><strong>Systems & DevOps</strong></summary>
 
-* Full-stack system with automated cron jobs
-* Clean admin dashboard & CRUD workflows
-* Built end-to-end as a solo developer
+* Containerize and deploy applications
+* Work with cloud infrastructure
+* Improve reliability through automation
 
----
-
-### 💬 Strings — *Social Media App*
-
-> React · MongoDB · Express
-
-* Responsive UI with Chakra UI
-* REST APIs with Express
-* Media handling + database integration
+</details>
 
 ---
 
-## 📊 GitHub Stats
+## ⚙️ Technical Comfort Zone
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mustafac0des&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mustafac0des&theme=tokyonight" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mustafac0des&theme=tokyo-night" />
+`Python` `JavaScript` `C++` `Java` `PHP`
+
+`React` `React Native` `Node.js` `FastAPI` `Laravel`
+
+`Docker` `AWS` `MongoDB` `MySQL` `Git`
+
 </p>
 
 ---
 
-## 📫 Let’s Connect
+## 📊 Activity
 
-* 💼 LinkedIn: [mustafac0des](https://www.linkedin.com/in/mustafac0des/)
-* 🧠 GitHub: [@mustafac0des](https://github.com/mustafac0des)
-* ✉️ Email: [mustafa357yt@gmail.com](mailto:mustafa357yt@gmail.com)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mustafac0des&show_icons=true&hide_border=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=mustafac0des&hide_border=true&theme=tokyonight" />
+</p>
 
 ---
+
+## ✨ Philosophy
+
+> *Good software is boring to use and exciting to maintain.*
+
+---
+
+## 📫 Let’s Talk
+
+If you’re interested in **engineering, systems design, or building software that lasts**, feel free to reach out.
 
 <div align="center">
-
-**“Code is poetry — make it readable.”**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
 
