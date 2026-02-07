@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Mustafa%20Amanullah&fontSize=42&fontAlignY=35&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&height=260&section=header&text=Mustafa%20Amanullah&fontSize=46&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20%26%20NLP%20Builder&descAlignY=58&animation=fadeIn" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Software+Engineer;AI+%26+NLP+Enthusiast;Full-Stack+Developer;I+Build+Things+That+Think+%F0%9F%A7%A0" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=900&center=true&vCenter=true&width=650&lines=Turning+ideas+into+products;Engineering+AI-powered+systems;Clean+code+%7C+Real+impact+%7C+Zero+fluff" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/mustafac0des"><img src="https://img.shields.io/github/followers/mustafac0des?label=Followers&style=for-the-badge" /></a>
-  <a href="https://www.linkedin.com/in/mustafac0des/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="mailto:mustafa357yt@gmail.com"><img src="https://img.shields.io/badge/Email-Reach%20Out-red?style=for-the-badge&logo=gmail" /></a>
+  <a href="https://github.com/mustafac0des"><img src="https://img.shields.io/github/followers/mustafac0des?style=for-the-badge&logo=github" /></a>
+  <img src="https://komarev.com/ghpvc/?username=mustafac0des&style=for-the-badge" />
+  <a href="https://www.linkedin.com/in/mustafac0des/"><img src="https://img.shields.io/badge/LinkedIn-Professional-blue?style=for-the-badge&logo=linkedin" /></a>
 </p>
 
 </div>
