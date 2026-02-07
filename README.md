@@ -11,8 +11,8 @@
 
 <!-- Contact Info -->
 ## 📫 Connect with Me
-- ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-- ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
 
 ---
 
@@ -57,4 +57,4 @@ Expected Graduation: June 2026
 ## 🏅 Certifications
 ![Python-Kaggle](https://img.shields.io/badge/Python-Kaggle-FFD43B?style=for-the-badge&logo=kaggle&logoColor=black)  
 ![Intro to Programming-Kaggle](https://img.shields.io/badge/Intro%20to%20Programming-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)  
-https://img.shields.io/badge/Frontend%20Web%20Developer-EVS-brightgreen?style=for-the-badge
+![Frontend Web Developer-EVS](https://img.shields.io/badge/Frontend%20Web%20Developer-EVS-brightgreen?style=for-the-badge)
