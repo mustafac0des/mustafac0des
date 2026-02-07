@@ -94,15 +94,13 @@ I’m most effective when working across **backend, frontend, and applied AI**, 
 
 ---
 
-## 📊 Activity
+## ✨ Presence
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mustafac0des&show_icons=true&hide_border=true&theme=tokyonight" />
-</p>
+This profile is intentionally kept **stable and low-friction**.
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=mustafac0des&hide_border=true&theme=tokyonight" />
-</p>
+Rather than relying on external activity widgets (which often break due to API limits), I let **code, consistency, and collaboration** speak for themselves.
+
+If you’re curious about my recent work, feel free to explore my repositories or reach out directly.
 
 ---
 
