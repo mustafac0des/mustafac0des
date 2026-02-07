@@ -42,43 +42,39 @@ I love building **intelligent systems**, **scalable backends**, and **clean user
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages
+### Languages
 
-![C++](https://img.shields.io/badge/C++-00599C?style=flat\&logo=c%2B%2B)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat\&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat\&logo=javascript)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat\&logo=openjdk)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat\&logo=php)
+`C++` `Python` `JavaScript` `Java` `PHP`
 
-### ⚙️ Frameworks & Tools
+### Frameworks & Platforms
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat\&logo=react)
-![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=flat\&logo=react)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat\&logo=node.js)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat\&logo=laravel)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat\&logo=fastapi)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat\&logo=docker)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat\&logo=amazonaws)
+`React` `React Native` `Node.js` `Laravel` `FastAPI`
 
-### 🧪 AI / ML
+### AI / ML
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat\&logo=tensorflow)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat\&logo=pytorch)
-![HuggingFace](https://img.shields.io/badge/Transformers-FFD21E?style=flat\&logo=huggingface)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat\&logo=scikitlearn)
+`Transformers` `PyTorch` `TensorFlow` `scikit-learn`
+
+### Cloud & DevOps
+
+`Docker` `AWS` `Terraform`
+
+### Databases & Tools
+
+`MongoDB` `MySQL` `Firebase` `Git` `Postman`
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 What I Do
 
-### 🧵 Lorelink — *Generative Storytelling Platform*
+I focus on **building real software systems end to end** — from idea and architecture to deployment and iteration.
 
-> React Native · Firebase · NLP · RAG
+My work typically sits at the intersection of:
 
-* AI-powered story generation with style control
-* RAG-based context enrichment using embeddings
-* Content moderation & version control
-* Social sharing and interactive storytelling
+* intelligent systems and applied AI,
+* scalable backend services,
+* and clean, user-focused web or mobile experiences.
+
+I care deeply about **code quality, system design, and long-term maintainability**, and I prefer shipping useful, evolving products over isolated demos.
 
 ---
 
