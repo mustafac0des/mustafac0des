@@ -1,60 +1,64 @@
-<!-- Welcome Section -->
-# Hi 👋, I'm Mustafa Amanullah
-### A passionate Software Engineer | Full-Stack Developer | AI & NLP Enthusiast
+# 👋 Hi, I'm Mustafa Amanullah
+### Software Engineer & AI/NLP Researcher
+
+I am a recent Software Engineering graduate passionate about building intelligent systems, specialized in **Natural Language Processing (NLP)**, **Generative AI**, and advanced **Retrieval-Augmented Generation (RAG)** agents. I love architectural design, full-stack engineering, and open-source contributions.
 
 ---
 
-<!-- Animated GIF / Typing Effect -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F0FF&width=500&lines=C%2B%2B+%7C+Java+%7C+Python;PHP+%7C+JavaScript+%7C+HTML%2FCSS;React+%7C+Node.js+%7C+FastAPI" alt="Typing SVG" />
+## 🛠️ Technical Stack
+
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | Python, JavaScript, HTML5, CSS3 |
+| **Frameworks** | FastAPI, Node.js, Express.js, React, React Native, Laravel |
+| **AI / NLP** | LangChain, Llama 3.2, Hugging Face, Transformers, NLTK, spaCy, TensorFlow, Scikit-learn, Sentence-Transformers, DistilBERT, Pegasus |
+| **Databases & Vector Stores** | MongoDB, Pinecone, MySQL, Firebase |
+| **Tools & DevOps** | Git, GitHub, Docker, AWS, Postman, VirtualBox |
 
 ---
 
-<!-- Contact Info -->
-## 📫 Connect with Me
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
+## 🚀 Key Projects
+
+### 🧠 **Multi-Document RAG Agent with RBAC**
+* **Tech Stack:** Python, Llama 3.2, LangChain, Hugging Face, Vector Embeddings
+* Developed a secure RAG application capable of parsing, indexing, and querying complex multi-document repositories using open-source decoder-only models.
+* Designed and implemented an **enterprise-grade Role-Based Access Control (RBAC)** layer ensuring strict data privacy and preventing unauthorized context retrieval based on user permission tiers.
+
+### 📖 **Lorelink — Generative Storytelling Social Media Platform**
+* **Tech Stack:** React Native, Python, JavaScript, Firebase, Generative AI Pipelines
+* *Final Year Project (2025 - 2026)*
+* Built a cross-platform mobile social network for Android featuring an automated story creation framework integrated with rigorous grammar/style post-processing pipelines.
+* Blended advanced context retrieval using vector embeddings to deliver highly personalized, context-aware story generation.
+* Engineered a custom story version control system to seamlessly manage collaborative user interactions.
+
+### 💬 **Strings — MERN Stack Social Media Application**
+* **Tech Stack:** MongoDB, Express.js, React, Node.js, Vite, Chakra UI, Postman
+* Developed a responsive, end-to-end social media application featuring modular layouts and highly structured database schema configurations.
+* Architected, tested, and optimized backend RESTful APIs using Express.js and validated them comprehensively via Postman.
 
 ---
 
-<!-- Skills -->
-## 💻 Technical Skills
+## 💼 Professional Experience
 
-**Languages:**  
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-**Frameworks & Libraries:**  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) 
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) 
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) 
-![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-
-**Tools & Databases:**  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white) 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) 
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white) 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+### 🔬 **Intern - Natural Language Processing** | Elevvo Pathways
+*Aug 2025 – Sept 2025*
+* **Text Classification Systems:** Engineered highly accurate systems (Sentiment Analysis, News Category, and Fake News Classifiers) utilizing Linear Models, Naive Bayes, and Deep Neural Networks.
+* **Information Extraction:** Architected multi-tier unsupervised text extraction systems using rule-based/model-based Named Entity Recognition (NER) paired with optimized Latent Dirichlet Allocation (LDA) and NMF topic models.
+* **Semantic Pipelines:** Fine-tuned DistilBERT on SQuAD for QA parsing, deployed Pegasus transformers for abstractive summary builds, and implemented Sentence Transformers for a multi-criteria automated resume screening application.
 
 ---
 
-## 🎓 Education
-**BSc. Software Engineering**  
-COMSATS University Islamabad Wah, Punjab  
-Expected Graduation: June 2026
+## 🎓 Education & Certifications
+
+* **BSc. Software Engineering** — COMSATS University Islamabad, Wah Campus (Class of 2026)
+* **Certifications:** * Natural Language Processing (*Elevvo Pathways*)
+  * Front-End Web Developer (*EVS Training Center*)
+  * Python & Intro to Programming (*Kaggle*)
 
 ---
 
-## 🏅 Certifications
-![Python-Kaggle](https://img.shields.io/badge/Python-Kaggle-FFD43B?style=for-the-badge&logo=kaggle&logoColor=black)  
-![Intro to Programming-Kaggle](https://img.shields.io/badge/Intro%20to%20Programming-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)  
-![Frontend Web Developer-EVS](https://img.shields.io/badge/Frontend%20Web%20Developer-EVS-brightgreen?style=for-the-badge)
+## 🤝 Connect with Me
+
+* **Email:** [mustafa357yt@gmail.com](mailto:mustafa357yt@gmail.com)
+* **LinkedIn:** [@mustafac0des](https://linkedin.com/in/mustafac0des)
+* **GitHub:** [@mustafacodes](https://github.com/mustafac0des)
