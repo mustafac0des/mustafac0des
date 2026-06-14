@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Mustafa Amanullah
-### Software Engineer & AI/NLP Researcher
+### Software Engineer & AI Researcher
 
-I am a recent Software Engineering graduate passionate about building intelligent systems, specialized in **Natural Language Processing (NLP)**, **Generative AI**, and advanced **Retrieval-Augmented Generation (RAG)** agents. I love architectural design, full-stack engineering, and open-source contributions.
+I am a Software Engineering graduate passionate about building intelligent systems, specialized in **Natural Language Processing (NLP)**, **Generative AI**, and advanced **Retrieval-Augmented Generation (RAG)** agents. I love architectural design, full-stack engineering, and open-source contributions.
 
 ---
 
