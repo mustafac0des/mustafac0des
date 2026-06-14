@@ -17,27 +17,6 @@ I am a recent Software Engineering graduate passionate about building intelligen
 
 ---
 
-## 🚀 Key Projects
-
-### 🧠 **Multi-Document RAG Agent with RBAC**
-* **Tech Stack:** Python, Llama 3.2, LangChain, Hugging Face, Vector Embeddings
-* Developed a secure RAG application capable of parsing, indexing, and querying complex multi-document repositories using open-source decoder-only models.
-* Designed and implemented an **enterprise-grade Role-Based Access Control (RBAC)** layer ensuring strict data privacy and preventing unauthorized context retrieval based on user permission tiers.
-
-### 📖 **Lorelink — Generative Storytelling Social Media Platform**
-* **Tech Stack:** React Native, Python, JavaScript, Firebase, Generative AI Pipelines
-* *Final Year Project (2025 - 2026)*
-* Built a cross-platform mobile social network for Android featuring an automated story creation framework integrated with rigorous grammar/style post-processing pipelines.
-* Blended advanced context retrieval using vector embeddings to deliver highly personalized, context-aware story generation.
-* Engineered a custom story version control system to seamlessly manage collaborative user interactions.
-
-### 💬 **Strings — MERN Stack Social Media Application**
-* **Tech Stack:** MongoDB, Express.js, React, Node.js, Vite, Chakra UI, Postman
-* Developed a responsive, end-to-end social media application featuring modular layouts and highly structured database schema configurations.
-* Architected, tested, and optimized backend RESTful APIs using Express.js and validated them comprehensively via Postman.
-
----
-
 ## 💼 Professional Experience
 
 ### 🔬 **Intern - Natural Language Processing** | Elevvo Pathways
@@ -53,7 +32,7 @@ I am a recent Software Engineering graduate passionate about building intelligen
 * **BSc. Software Engineering** — COMSATS University Islamabad, Wah Campus (Class of 2026)
 * **Certifications:** * Natural Language Processing (*Elevvo Pathways*)
   * Front-End Web Developer (*EVS Training Center*)
-  * Python & Intro to Programming (*Kaggle*)
+  * Intro to Programming & Python (*Kaggle*)
 
 ---
 
